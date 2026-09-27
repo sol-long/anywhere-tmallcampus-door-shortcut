@@ -23,7 +23,7 @@ tmallcampus://web/open?url=https%3A%2F%2Fbiz.confong.cn%2Fapp%2Ftmall-xiaoyuan%2
 
 对应 H5 页面：`https://biz.confong.cn/app/tmall-xiaoyuan/page-m-webview/doorLock?loginRequired=true&hideNavigator=true`
 
-## [anywhere-分析链接](anywhere-.md)
+## [anywhere-分享链接](anywhere-.md)
 
 ## 免责声明
 
